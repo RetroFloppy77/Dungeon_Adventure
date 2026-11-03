@@ -74,7 +74,7 @@ sudo pacman -S git base-devel cmake make gawk
 
 (c) 2018 Stefano Peris
 
-email: <xenonlab.develop@gmail.com>
+email: <stefanoperis.github@gmail.com>
 
 Dungeon Adventure is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
