@@ -3,7 +3,6 @@
 ***********************************************
 * PROJECT NAME: DUNGEON ADVENTURE             *
 * AUTHOR: STEFANO PERIS                       *
-* PRODUCT PUBLISHER: XENONLAB STUDIO (c) 2018 *
 * LANGUAGE: ANSI C                            *
 * COMPILER: GNU GCC COMPILER (MINGW INCLUDED) *
 ***********************************************
