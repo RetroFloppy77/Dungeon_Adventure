@@ -8,7 +8,7 @@
 ***********************************************
 
 ---------------------------------------------------------------
-- For error/bug reporting, e-mail: xenonlab.develop@gmail.com -
+- For error/bug reporting, e-mail: stefanoperis.github@gmail.com -
 ---------------------------------------------------------------
 
 -----------
